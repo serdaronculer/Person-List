@@ -29,7 +29,7 @@ Live Site URL: [Live Site](https://serdaronculer.github.io/Person-List/)
 
 - Semantic HTML5 markup
 - CSS3
-- Flexbox
+- Skeloton
 - Javascript
 
 
