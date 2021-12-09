@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+}
+
+input[type="submit"], button{
+    font-size: 18px;
+}
+
+.fontSize18px{
+      font-size: 18px;
+  }
+
+.btn{
+    border: none;
+    font-size: 2rem;
+    padding: 0;
+
+}
+
+.cancel{
+    visibility: hidden;
+}
+
+.disable{
+    pointer-events: none;
+    cursor: none;
+    color: rgba(127, 140, 141,0.4)
+}
+
+.btn-edit{
+color: #008000;
+}
+
+.btn-delete{
+color: #ff0000;
+}
+.info{
+padding: 1rem;
+margin: 1rem 0;
+border-radius: 4px;
+opacity: 0;
+}
+.info-success{
+    border: 1px solid #008000;
+    opacity: 1;
+    transition: 0.5s ease-in-out;
+}
+.info-error{
+    border: 1px solid #ff0000;
+    opacity: 1;
+    transition: 1s ease-out;
+}
+i.icon{
+    pointer-events: none;
+}
+
+.button-danger{
+background-color: #dc3545;
+color: #ffffff;
+text-align: center;
+}
