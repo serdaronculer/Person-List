@@ -27,8 +27,8 @@ Live Site URL: [Live Site](https://serdaronculer.github.io/Person-List/)
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS3
+- HTML5
+- CSS
 - Skeloton
 - Javascript
 
